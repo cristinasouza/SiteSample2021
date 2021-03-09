@@ -45,9 +45,9 @@ Novembro/2018
 				<h1 class="w3-jumbo">Controle Acadêmico</h1>
 				<p class="w3-xlarge">Cadastros de Professores e Disciplinas</p>
 
-				<img src="imagens/cadastro.jpg" class="w3-circle">
+				<img src="imagens/cadastro.png" class="w3-circle" width="30%">
 
-				<img src="imagens/quadro.jpg" class="w3-circle">
+				<img src="imagens/quadro.png" class="w3-circle" width="30%">
 
 
 				<footer class="w3-panel w3-padding-32 w3-card-4 w3-light-grey w3-center w3-opacity">
