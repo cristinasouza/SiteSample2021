@@ -19,6 +19,7 @@ Novembro/2018
         <div class="w3-container">
             <p>Site exemplo: <b>Desenvolvimento Web com PHP</b></p>
             <p class="w3-small">Profa. Cristina Verçosa Pérez Barrios de Souza</p>
+            <p class="w3-small">Prof.  Marco Antonio Paludo</p>
         </div>
         <footer class="w3-container w3-theme ">
             <p>PUCPR 2021 (revisão) </p>
