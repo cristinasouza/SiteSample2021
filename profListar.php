@@ -70,8 +70,6 @@
                     mysqli_query($conn,'SET character_set_client=utf8');
                     mysqli_query($conn,'SET character_set_results=utf8');
 
-                    $id=$_GET['id'];
-
                     // Faz Select na Base de Dados
                     $sql = "SELECT CodProfessor, Nome, Celular, DataNasc, Login FROM professor";
                     echo "<div class='w3-responsive w3-card-4'>";
